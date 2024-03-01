@@ -2,7 +2,7 @@
 license = { file = "LICENSE" }
 name = "gpudetect"
 version = "0.0.1"
-description = "your_description_here"
+description = "Generic platform independent GPU detection librar"
 readme = "README.md"
 requires-python = ">=3.7"
 authors = [{ name = "derUli", email = "schwein@uli-s-musikprojekt.de" }]
@@ -11,9 +11,9 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
 ]
 dependencies = [
-   "GPUtil",
-   "pyadl",
-   "pylspci"
+    "GPUtil",
+    "pyadl",
+    "pylspci"
 ]
 
 [project.urls]

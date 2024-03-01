@@ -1,4 +1,4 @@
-""" Generic platform independent GPU detection library  """
+""" Generic platform independent GPU detection library """
 import subprocess
 
 # Used to detect NVIDIA GPUs
@@ -99,6 +99,7 @@ class GPUInfo:
     def __repr__(self) -> str:
         """ See __str__ """
         return self.__str__()
+
 
 def detect_nvidia() -> list:
     """

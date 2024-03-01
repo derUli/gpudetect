@@ -1,4 +1,5 @@
 # gpudetect:
+
 [![PyPI version](https://badge.fury.io/py/gpudetect.svg)](https://badge.fury.io/py/gpudetect)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/gpudetect)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
